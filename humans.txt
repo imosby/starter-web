@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ishmael Mosby  imosby@outlook.com  imosby
 
 # THANKS
 
