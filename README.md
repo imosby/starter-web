@@ -12,12 +12,16 @@ This example is to show the different parts of the Git repository and various co
 
 As stated above, the main purpose is to provide simple examples for Git training demos.
 
-##Deployment
+## Deployment
 
 This is a simple web projedt, deployment can be on any web server or even local file system.
 
 Sample website with plenty of files for demos
 
-###Copyright
+## How To Contribute 
+
+Please fork this repository and then issue Pull Requests for review
+
+### Copyright
 
 2014 Git.Training.
